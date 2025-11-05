@@ -12,9 +12,10 @@ This repository serves as a central resource for prospective students, current s
 Navigate through the sections below to find detailed information about our program.
 
 *   **[Program Overview](./PROGRAM-OVERVIEW.md)**: Why choose the MS in AI at TXST? Learn about our vision, location, and career outlook.
-*   **[Curriculum Details](./CURRICULUM.md)**: A complete breakdown of degree requirements, core courses, and electives.
-*   **[Degree Guide & Flowchart](./DEGREE-GUIDE.md)**: Sample semester plans and a visual flowchart to guide you through the program.
-*   **[Admissions Information](./ADMISSIONS.md)**: Deadlines, required documents, and how to apply.
+*   **[Admissions Information](./ADMISSIONS.md)**: Your guide to the application process, including deadlines and required documents.
 *   **[Pathways Program for Non-CS Majors](./PATHWAYS-PROGRAM.md)**: Our dedicated entry path for students from diverse academic backgrounds.
+*   **[Curriculum Details](./CURRICULUM.md)**: A complete breakdown of the degree plan, core courses, and electives.
+*   **[Degree Guide & Flowchart](./DEGREE-GUIDE.md)**: Sample semester plans and a visual flowchart to guide you through the program.
+*   **[Degree & Graduation Requirements](./REQUIREMENTS.md)**: A checklist of academic milestones required for graduation (for admitted students).
 *   **[Faculty Expertise](./FACULTY.md)**: Learn about the research areas and expertise of our distinguished faculty.
 *   **[Helpful Resources](./RESOURCES.md)**: Links to the Graduate College, official catalog, and other student resources.
