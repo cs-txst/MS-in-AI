@@ -12,7 +12,7 @@ This page provides a collection of useful links for prospective and current stud
 *   **[Graduate Admissions](https://gradcollege.txst.edu/admissions)**
     The official portal for starting and managing your application to the program.
 
-*   **[Official Program Catalog](https://mycatalog.txst.edu/graduate/science-engineering/computer/)**
+*   **[Official Program Catalog]()**
     The definitive source for degree requirements, course descriptions, and university academic policies.
 
 *   **[Financial Aid and Scholarships](https://www.finaid.txstate.edu/)**
@@ -26,8 +26,8 @@ This page provides a collection of useful links for prospective and current stud
 *   **[Department of Computer Science Homepage](https://www.cs.txst.edu/)**
     The main website for the Department of Computer Science, featuring news, events, and a full faculty directory.
 
-*   **[CS Graduate Student Organizations](https://www.cs.txstate.edu/resources/student_organizations.html)**
+*   **[CS Graduate Student Organizations](https://cs.txst.edu/resources/student-involvement.html)**
     Get involved in the student community through organizations like the Association for Computing Machinery (ACM) and Upsilon Pi Epsilon (UPE).
 
-*   **[Department Computing Resources](https://www.cs.txstate.edu/resources/computing.html)**
+*   **[Department Computing Resources](https://cs.txst.edu/resources.html)**
     Information on the department's computing labs, servers, and other technical resources available to students.
