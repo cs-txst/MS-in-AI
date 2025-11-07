@@ -19,7 +19,7 @@ The core of the Pathways Program consists of the following five courses. Student
 | Course Number | Title | Rationale |
 | :--- | :--- | :--- |
 | **CS 5301** | Programming Practicum | Provides an intensive, graduate-level review of programming principles and data structures to accelerate readiness. |
-| **CS 2325** | Computer Organization | Establishes a fundamental understanding of how computer hardware and systems operate. |
+| **MATH 3305** | Probability and Statistics | Establishes a fundamental understanding of basic probability and statistics concepts. |
 | **CS 3358** | Data Structures and Algorithms | **(Most Critical)** The foundational course for graduate-level computer science, covering the design and analysis of algorithms. |
 | **CS 3360** | Computing Systems Fundamentals | Covers key concepts in operating systems, concurrency, and networking that are essential for building robust AI applications. |
 | **CS 4379G** | Data Analysis and Visualization | Teaches practical, in-demand skills in Python and its data science ecosystem (NumPy, Pandas), directly preparing students for AI coursework. |
